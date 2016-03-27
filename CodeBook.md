@@ -185,7 +185,8 @@
       fBodyBodyGyroJerkMag-std()	
       fBodyBodyGyroJerkMag-meanFreq()      14
       
-            Mean of the measurements from accelerometer and gyroscope 3-axial row group by activity and subject
+            Mean of the measurements from accelerometer and gyroscope 3-axial row group by activity
+            and subject
               [-1, 1]   .Mean measurements
 
       group       5

@@ -82,7 +82,7 @@ fBodyBodyGyroJerkMag-meanFreq()      14
       Readings from accelerometer and gyroscope 3-axial row
         [-1, 1]   .Normalised measurements
 
-group 5
+group       5
 
       The set of data where it is derived from
         test  .Testing set

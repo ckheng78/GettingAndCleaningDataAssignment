@@ -5,8 +5,8 @@ library(data.table)
 library(plyr)
 
 # if essential files not found, unable to continue
-files_list <- c("./X_test.txt", "./y_test.txt", "./subject_test.txt",
-                "./X_train.txt", "./y_train.txt", "./subject_train.txt",
+files_list <- c("./test/X_test.txt", "./test/y_test.txt", "./test/subject_test.txt",
+                "./train/X_train.txt", "./train/y_train.txt", "./train/subject_train.txt",
                 "features.txt", "activity_labels.txt")
 # if any of the files are not found, stop
 sapply(files_list, function(x) {

@@ -84,22 +84,22 @@
 
       group       5
 
-      The set of data where it is derived from
-        test  .Testing set
-        train .Training set
+            The set of data where it is derived from
+              test  .Testing set
+              train .Training set
 
       activity    18
 
-      The current activity when the measurements are taken
-        WALKING               .when the subject is walking
-        WALKING_UPSTAIRS      .when the subject is climbing the stairs
-        WALKING_DOWNSTAIRS    .when the subject is descending the stairs
-        SITTING               .when the subject is sitting
-        STANDING              .when the subject is standing
-        LAYING                .when the subject is laying down
+            The current activity when the measurements are taken
+              WALKING               .when the subject is walking
+              WALKING_UPSTAIRS      .when the subject is climbing the stairs
+              WALKING_DOWNSTAIRS    .when the subject is descending the stairs
+              SITTING               .when the subject is sitting
+              STANDING              .when the subject is standing
+              LAYING                .when the subject is laying down
         
 
       subject     2
 
-      The test subject
-        [1-30]    .Each unique number represents a subject   
+            The test subject
+              [1-30]    .Each unique number represents a subject   

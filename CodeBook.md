@@ -78,16 +78,17 @@ fBodyBodyGyroMag-meanFreq()
 fBodyBodyGyroJerkMag-mean()	
 fBodyBodyGyroJerkMag-std()	
 fBodyBodyGyroJerkMag-meanFreq()      14
+
       Readings from accelerometer and gyroscope 3-axial row
         [-1, 1]   .Normalised measurements
 
-group
+group 5
 
       The set of data where it is derived from
         test  .Testing set
         train .Training set
 
-activity
+activity    18
 
       The current activity when the measurements are taken
         WALKING               .when the subject is walking
@@ -98,7 +99,7 @@ activity
         LAYING                .when the subject is laying down
         
 
-subject
+subject     2
 
       The test subject
         [1-30]    .Each unique number represents a subject   
